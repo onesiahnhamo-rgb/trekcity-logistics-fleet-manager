@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Invoices</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Invoice Management</h1>
+
+<p>No invoices captured yet.</p>
+
+</body>
+</html>
