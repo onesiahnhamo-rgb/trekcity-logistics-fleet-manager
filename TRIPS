@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Trip Management</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Trip Management</h1>
+
+<table border="1">
+<tr>
+<th>Load ID</th>
+<th>Truck</th>
+<th>Driver</th>
+<th>Origin</th>
+<th>Destination</th>
+<th>Rate</th>
+</tr>
+
+<tr>
+<td>L001</td>
+<td>B148BWZ</td>
+<td>Kereng Mosoma</td>
+<td>Ottosdal</td>
+<td>Gaborone</td>
+<td>P20,500</td>
+</tr>
+
+</table>
+
+</body>
+</html>
