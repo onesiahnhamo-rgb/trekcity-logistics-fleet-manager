@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Executive Dashboard</h1>
+
+<div class="card">
+    <h2>Total Fleet</h2>
+    <p>12 Trucks</p>
+</div>
+
+<div class="card">
+    <h2>Active Loads</h2>
+    <p>8 Loads</p>
+</div>
+
+<div class="card">
+    <h2>Monthly Revenue</h2>
+    <p>P 0.00</p>
+</div>
+
+<div class="card">
+    <h2>Outstanding Invoices</h2>
+    <p>P 0.00</p>
+</div>
+
+</body>
+</html>
