@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fuel Tracking</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Fuel Tracking</h1>
+
+<p>Total Litres Purchased: 0</p>
+<p>Total Fuel Cost: P0.00</p>
+
+</body>
+</html>
